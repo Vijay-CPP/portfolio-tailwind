@@ -577,8 +577,8 @@ video {
   bottom: 0px;
 }
 
-.bottom-\[10vh\]{
-  bottom: 10vh;
+.bottom-\[6vh\]{
+  bottom: 6vh;
 }
 
 .left-0{
@@ -597,8 +597,8 @@ video {
   right: 4rem;
 }
 
-.right-4{
-  right: 1rem;
+.right-5{
+  right: 1.25rem;
 }
 
 .top-0{
@@ -607,22 +607,6 @@ video {
 
 .top-24{
   top: 6rem;
-}
-
-.bottom-\[9vh\]{
-  bottom: 9vh;
-}
-
-.right-5{
-  right: 1.25rem;
-}
-
-.bottom-\[8vh\]{
-  bottom: 8vh;
-}
-
-.bottom-\[6vh\]{
-  bottom: 6vh;
 }
 
 .z-10{
@@ -745,8 +729,8 @@ video {
   width: 1.75rem;
 }
 
-.w-\[20vw\]{
-  width: 20vw;
+.w-\[18vw\]{
+  width: 18vw;
 }
 
 .w-\[30vw\]{
@@ -780,10 +764,6 @@ video {
 
 .w-full{
   width: 100%;
-}
-
-.w-\[18vw\]{
-  width: 18vw;
 }
 
 .max-w-\[200px\]{
