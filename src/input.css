@@ -1,6 +1,11 @@
 /* Fonts */
 @import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
 
+/* Custom Styles */
+html {
+  scroll-behavior: smooth;
+}
+
 /* Tailwind CSS */
 @tailwind base;
 @tailwind components;
